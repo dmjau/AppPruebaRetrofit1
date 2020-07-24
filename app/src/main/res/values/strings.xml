@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Los Perros de Nacional</string>
+    <string name="main_query_hint">Ej: Akita, Boxer, Beagle, Basenii</string>
+    <string name="main_error_msg">Ha ocurrido un error, por favor intentelo mas tarde</string>
+</resources>
